@@ -58,6 +58,20 @@ img {
   margin: 24px auto;
 }
 
+.card-white-intro {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 24px auto;
+}
+
+.card-white-intro h2 {
+    color: #575F7D;
+    font-size: 18px;
+    font-weight: 900;
+}
+
 .text-center {
   text-align: center;
 }
@@ -89,7 +103,7 @@ img {
 }
 
 .social-icon {
-  font-size: 32px;
+  font-size: 40px;
   color: rgb(220,220,220);
 }
 
